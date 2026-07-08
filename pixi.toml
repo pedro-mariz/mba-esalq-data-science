@@ -1,0 +1,15 @@
+[workspace]
+authors = ["Pedro Carvalho <pedro.carvalho@fiberwork.net>"]
+channels = ["conda-forge"]
+name = "mba-esalq-data-science"
+platforms = ["win-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+numpy = ">=2.5.1,<3"
+pandas = ">=3.0.3,<4"
+matplotlib = ">=3.11.0,<4"
+seaborn = ">=0.13.2,<0.14"
+scipy = ">=1.18.0,<2"

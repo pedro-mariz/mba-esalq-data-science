@@ -2,7 +2,7 @@
 authors = ["Pedro Carvalho <pedro.carvalho@fiberwork.net>"]
 channels = ["conda-forge"]
 name = "mba-esalq-data-science"
-platforms = ["win-64"]
+platforms = ["win-64", "linux-64"]
 version = "0.1.0"
 
 [tasks]

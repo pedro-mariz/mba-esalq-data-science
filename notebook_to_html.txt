@@ -1,0 +1,10 @@
+Se tiver plotly, precisa adicionar:
+
+import plotly.io as pio
+pio.renderers.default = "notebook"
+
+Precisa verificar os caminhos dos arquivos de dados.
+
+Comando:
+
+pixi run jupyter nbconvert --to html --template lab --execute <notebook_file>.ipynb

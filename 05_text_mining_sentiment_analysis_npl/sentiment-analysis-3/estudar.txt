@@ -1,0 +1,3 @@
+O que faz o CountVectorizer()
+Como funciona o MultinomialNB()
+Ver um pouco sobre o LeIA e o VADER.

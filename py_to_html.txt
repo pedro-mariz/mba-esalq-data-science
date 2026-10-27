@@ -1,0 +1,3 @@
+Se tiver plotly, precisa adicionar:
+
+python -m pygments -O full,style=default,linenos=True -f html -o <file>.html ""
